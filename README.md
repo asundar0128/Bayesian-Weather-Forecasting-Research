@@ -14,13 +14,9 @@ https://github.com/asundar0128/Bayesian-Weather-Forecasting-Research/blob/main/B
 
 <img width="1536" height="1024" alt="System Architecture" src="https://github.com/user-attachments/assets/59dbdcc4-656a-4cd1-885f-a06ac4c7fa46" />
 
-<img width="247" height="204" alt="CNN" src="https://github.com/user-attachments/assets/09d7fa66-8d3f-4022-84c9-3e3d90566301" />
-
 <img width="1463" height="613" alt="CNN and Transformers" src="https://github.com/user-attachments/assets/4a18fafd-689f-456e-914b-826dbc705ac2" />
 
 <img width="2000" height="1522" alt="More Images" src="https://github.com/user-attachments/assets/1f05211a-78ca-4c32-ba6b-de27f4d6b6bc" />
-
-<img width="315" height="160" alt="Layers of Neural Network" src="https://github.com/user-attachments/assets/811c8810-4c40-4147-ac04-f92366159137" />
 
 ## Architectural Highlights
 
