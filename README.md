@@ -12,7 +12,7 @@ https://github.com/asundar0128/Bayesian-Weather-Forecasting-Research/blob/main/B
 
 ## Core Model: Bayesian Convolutional Neural Network (B-CNN)
 
-<img width="2048" height="2048" alt="System Architecture - Bayesian Forecasting" src="https://github.com/user-attachments/assets/325dc9c9-dc09-4953-b20b-adff5917a950" />
+<img width="1536" height="1024" alt="System Architecture" src="https://github.com/user-attachments/assets/59dbdcc4-656a-4cd1-885f-a06ac4c7fa46" />
 
 <img width="247" height="204" alt="CNN" src="https://github.com/user-attachments/assets/09d7fa66-8d3f-4022-84c9-3e3d90566301" />
 
