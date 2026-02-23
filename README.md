@@ -1,16 +1,21 @@
-# Bayesian-Weather-Forecasting-Research
-### Architecture & Methodology
+## Bayesian Convolutional Neural Networks for Probabilistic Atmospheric Prediction
 
-Core Model: Bayesian Convolutional Neural Network (B-CNN).
+This repository presents research on Bayesian Convolutional Neural Networks (B-CNNs) for short-term weather forecasting with explicit uncertainty quantification.
 
-Uncertainty Quantification: Utilized Monte Carlo Stochastic Approximation to handle epistemic uncertainty in atmospheric sensor data.
+The framework integrates Monte Carlo stochastic approximation to model epistemic uncertainty in atmospheric sensor data and significantly outperforms traditional machine learning baselines.
 
-Comparison Baseline: Traditional SVM and Decision Tree models (outperformed by 40%).
+## Research Paper:
 
-### Key Results
+https://github.com/asundar0128/Bayesian-Weather-Forecasting-Research/blob/main/Bayesian_CNN_Weather_Forecasting_Research_2024.pdf
 
-Efficiency: 40% improvement in forecasting computational efficiency.
+## System Architecture
 
-Accuracy: Significant reduction in RMSE for short-term temporal sequences compared to heuristic baselines.
+## Core Model: Bayesian Convolutional Neural Network (B-CNN)
 
-Link to Research Paper: https://github.com/asundar0128/Bayesian-Weather-Forecasting-Research/blob/main/Bayesian_CNN_Weather_Forecasting_Research_2024.pdf
+graph TD
+    A[Atmospheric Sensor Data] --> B[Preprocessing & Normalization]
+    B --> C[Temporal CNN Layers]
+    C --> D[Bayesian Weight Sampling]
+    D --> E[Monte Carlo Forward Passes]
+    E --> F[Predictive Mean + Variance]
+    F --> G[Uncertainty Intervals]
